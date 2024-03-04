@@ -45,3 +45,21 @@ ul {
     padding: 0;
 }
 
+.img-edit {
+    max-height: 400px;
+}
+
+.bg-image {
+    background-image: url('assets/websitebg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    max-height: 250px;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.contact-img {
+    border-radius: 50%;
+    max-height: 100px;
+}
